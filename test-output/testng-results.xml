@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-10T12:07:16 IST" name="Default suite" finished-at="2022-04-10T12:07:40 IST" duration-ms="24870">
+    <groups>
+    </groups>
+    <test started-at="2022-04-10T12:07:16 IST" name="Default test" finished-at="2022-04-10T12:07:40 IST" duration-ms="24870">
+      <class name="com.Maven.CrossBrowser">
+        <test-method signature="browser()[pri:0, instance:com.Maven.CrossBrowser@1fb700ee]" started-at="2022-04-10T12:07:16 IST" name="browser" finished-at="2022-04-10T12:07:30 IST" duration-ms="14429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="browser2()[pri:0, instance:com.Maven.CrossBrowser@1fb700ee]" started-at="2022-04-10T12:07:30 IST" name="browser2" finished-at="2022-04-10T12:07:40 IST" duration-ms="10299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser2 -->
+      </class> <!-- com.Maven.CrossBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
